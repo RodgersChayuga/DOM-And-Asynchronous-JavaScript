@@ -1,3 +1,7 @@
+# TABLE OF CONTENT: 
+## Using Array Methods on the DOM Asynchronous JavaScript
+
+
 ### 1. [Introduction to the DOM](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/Introduction%20to%20the%20DOM.md):
   * What is the DOM?
   * How does the DOM relate to HTML and CSS?
