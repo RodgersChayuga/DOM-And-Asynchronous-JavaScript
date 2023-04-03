@@ -42,3 +42,9 @@ document.getElementById("my-link").setAttribute("href", "https://www.example.com
 ```Javascript
 document.getElementById("my-div").style.backgroundColor = "red";
 ````
+
+**4.6. Changing Classes:** You can add or remove classes from an element using the classList property. For example, to add a class "active" to a div element with the ID "my-div", you could use the following code:
+
+```Javascript
+document.getElementById("my-div").classList.add("active");
+````
