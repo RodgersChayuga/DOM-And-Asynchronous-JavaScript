@@ -48,3 +48,9 @@ document.getElementById("my-div").style.backgroundColor = "red";
 ```Javascript
 document.getElementById("my-div").classList.add("active");
 ````
+
+Similarly, to remove a class "inactive" from the same div element, you could use the following code:
+
+```Javascript
+document.getElementById("my-div").classList.remove("inactive");
+````
