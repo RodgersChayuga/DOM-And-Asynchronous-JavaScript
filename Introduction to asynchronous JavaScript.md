@@ -6,11 +6,11 @@ In synchronous JavaScript, each task is executed one after the other, and the ex
 
 Asynchronous JavaScript uses a set of programming techniques to allow multiple tasks to be executed concurrently without blocking the main thread. These techniques include:
 
-   **1.1. Callbacks:** A callback is a function that is passed as an argument to another function and is executed when the operation is completed. Callbacks allow JavaScript to perform asynchronous operations such as network requests and file I/O without blocking the main thread.
+  * **1.1. Callbacks:** A callback is a function that is passed as an argument to another function and is executed when the operation is completed. Callbacks allow JavaScript to perform asynchronous operations such as network requests and file I/O without blocking the main thread.
 
-   **1.2. Promises:** A promise is an object that represents the eventual completion (or failure) of an asynchronous operation and allows JavaScript to perform multiple operations concurrently. Promises provide a cleaner and more structured way to handle asynchronous code than callbacks.
+  * **1.2. Promises:** A promise is an object that represents the eventual completion (or failure) of an asynchronous operation and allows JavaScript to perform multiple operations concurrently. Promises provide a cleaner and more structured way to handle asynchronous code than callbacks.
 
-   **1.3. Async/await:** Async/await is a modern syntax for writing asynchronous JavaScript code that makes it look more like synchronous code. It allows JavaScript to perform asynchronous operations without blocking the main thread and provides a more readable and maintainable code.
+  * **1.3. Async/await:** Async/await is a modern syntax for writing asynchronous JavaScript code that makes it look more like synchronous code. It allows JavaScript to perform asynchronous operations without blocking the main thread and provides a more readable and maintainable code.
 
 #### 2. Why is asynchronous JavaScript important for web development?
 Asynchronous JavaScript is important for web development for several reasons:
