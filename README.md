@@ -35,3 +35,10 @@ para.parentNode.removeChild(para); //Get to the parent of the element to be remo
 ```Javascript
 document.getElementById("my-link").setAttribute("href", "https://www.example.com");
 ```
+
+
+**Changing CSS:** You can change the style properties of an element using the `style` property. For example, to change the background color of a div element with the ID `"my-div"`, you could use the following code:
+
+```Javascript
+document.getElementById("my-div").style.backgroundColor = "red";
+````
