@@ -3,7 +3,7 @@
   * How does the DOM relate to HTML and CSS?
   * How does JavaScript interact with the DOM?
   * Examples of common DOM manipulations (e.g. changing text, adding/removing elements)
-### 2. [Introduction to asynchronous JavaScript](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/edit/main/Introduction%20to%20asynchronous%20JavaScript.md):
+### 2. [Introduction to asynchronous JavaScript](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/Introduction%20to%20asynchronous%20JavaScript.md):
   * What is asynchronous JavaScript?
   * Why is asynchronous JavaScript important for web development?
   * Examples of common asynchronous operations (e.g. fetching data from a server, user interactions)
