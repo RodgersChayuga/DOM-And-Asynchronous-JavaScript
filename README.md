@@ -60,3 +60,9 @@ document.getElementById("my-div").classList.remove("inactive");
 ```Javascript
 document.getElementById("my-button").addEventListener("click", function() {alert("Button clicked")}); // the addEventListener takes in two arguments, the event in this case it is a click, and a function that throws an alert message.
 ````
+
+**4.7. Creating and Setting Attributes:** You can create new attributes on an element using the `setAttribute` method. For example, to add a data attribute `data-user-id` to a div element with the ID `"my-div"`, you could use the following code:
+
+```Javascript
+document.getElementById("my-div").setAttribute("data-user-id", 12345); // setAttribute takes in two arguments the key of the attribute in this case is "data-user-id" and it's value, in this case "12345"
+````
