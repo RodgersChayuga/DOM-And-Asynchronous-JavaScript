@@ -22,9 +22,16 @@ const textNode = document.createTextNode("New paragraph"); // add text or paragr
 newPara.appendChild(textNode): //add the text in the paragraph element.
 document.getelementById("my-div").appendChild(newPara); //update the `my-div` ID with the new paragaraph.
 ```
+
 **4.3. Removing Elements:** You can remove elements from the DOM using the `removeChild` method. For example, to remove a paragraph element with the ID `"my-para"`, you could ude the following code: 
 
 ```Javascript
 const para = document.getElementById("my-para"); // Get the intended element by it's ID name
 para.parentNode.removeChild(para); //Get to the parent of the element to be removed, and specify the child to be removed.
+```
+
+**4.4. Changing Attribute:** You can change the attributes of an element using the `serAttribute` method. For example, to change the href attribute of a link element with the ID `"my-link"`, you could use the following code:
+
+```Javascript
+document.getElementById("my-link").setAttribute("href", "https://www.example.com");
 ```
