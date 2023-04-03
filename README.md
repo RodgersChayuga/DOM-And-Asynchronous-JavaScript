@@ -43,14 +43,20 @@ document.getElementById("my-link").setAttribute("href", "https://www.example.com
 document.getElementById("my-div").style.backgroundColor = "red";
 ````
 
-**4.6. Changing Classes:** You can add or remove classes from an element using the classList property. For example, to add a class "active" to a div element with the ID "my-div", you could use the following code:
+**4.6. Changing Classes:** You can add or remove classes from an element using the classList property. For example, to add a class "active" to a div element with the ID `"my-div"`, you could use the following code:
 
 ```Javascript
 document.getElementById("my-div").classList.add("active");
 ````
 
-Similarly, to remove a class "inactive" from the same div element, you could use the following code:
+Similarly, to remove a class `"inactive"` from the same div element, you could use the following code:
 
 ```Javascript
 document.getElementById("my-div").classList.remove("inactive");
+````
+
+**4.7. Event Handling:** You can add event listeners to elements using the `addEventListener` method. For example, to add a click event listener to a button element with the ID `"my-button"`, you could use the following code:
+
+```Javascript
+document.getElementById("my-button").addEventListener("click", function() {alert("Button clicked")}); // the addEventListener takes in two arguments, the event in this case it is a click, and a function that throws an alert message.
 ````
