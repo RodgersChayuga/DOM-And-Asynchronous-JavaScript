@@ -1,4 +1,4 @@
-# Introduction to the DOM:
+# 1. Introduction to the DOM:
 #### 1. What is the DOM?
 Is a Document Object Model, which is a programming interface for HTML and XML documents.
 
