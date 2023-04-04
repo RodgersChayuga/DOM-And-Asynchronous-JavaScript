@@ -101,3 +101,19 @@ myArray.splice(1, 0, "pear", "kiwi");
 console.log(myArray); // Output: ["apple", "pear", "kiwi", "banana", "orange", "grape"]
 console.log(removedElement); // Output: ["cherry"]
 ```
+
+* **concat() -** joins two or more arrays and returns a new array.
+
+```Javascript
+// Declare two arrays
+let array1 = ["apple", "banana", "cherry"];
+let array2 = ["orange", "grape"];
+
+// Concatenate the two arrays using concat()
+let concatenatedArray = array1.concat(array2);
+
+// Display the concatenated array and the original arrays
+console.log(concatenatedArray); // Output: ["apple", "banana", "cherry", "orange", "grape"]
+console.log(array1); // Output: ["apple", "banana", "cherry"]
+console.log(array2); // Output: ["orange", "grape"]
+```
