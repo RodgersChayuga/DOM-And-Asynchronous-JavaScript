@@ -1,2 +1,17 @@
 # 4. Examples of using array methods on the DOM
 
+#### 1. Change the text content of all paragraphs:
+```Javascript
+const paragraphs = Array.from(document.querySelectorAll('p'));
+const newText = 'New text content';
+
+const updatedParagraphs = paragraphs.map((p) => {
+  p.textContent = newText;
+  return p;
+});
+```
+
+> In this example, we first select all the paragraph elements on the page using `querySelectorAll()`, and convert the
+resulting **NodeList** to an array using `Array.from()`. We then use `map()` to loop over each paragraph element 
+and set its `text
+content` property to a new string. The updated paragaphs are returned as an array of DOM element
