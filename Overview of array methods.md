@@ -27,3 +27,33 @@ myArray.push("cherry");
 // Display the array
 console.log(myArray); // Output: ["apple", "banana", "cherry"]
 ```
+
+* **pop() -** Removes the last element from an array and returns that element.
+
+> We will use the Array above.
+
+```Javascript
+// Declare an array with some elements
+let myArray = ["apple", "banana", "cherry"];
+
+// Remove the last element from the array using pop()
+let removedElement = myArray.pop();
+
+// Display the modified array and the removed element
+console.log(myArray); // Output: ["apple", "banana"]
+console.log(removedElement); // Output: "cherry"
+```
+
+* **shift() -** Removes the first element from an array and returns the element.
+
+```Javascript
+// Declare an array with some elements
+let myArray = ["apple", "banana", "cherry"];
+
+// Remove the first element from the array using shift()
+let removedElement = myArray.shift();
+
+// Display the modified array and the removed element
+console.log(myArray); // Output: ["banana", "cherry"]
+console.log(removedElement); // Output: "apple"
+```
