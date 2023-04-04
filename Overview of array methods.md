@@ -173,3 +173,18 @@ let squaredNumbers = numbers.map(function(number) {
 console.log(doubledNumbers); // Output: [4, 8, 12, 16, 20]
 console.log(squaredNumbers); // Output: [4, 16, 36, 64, 100]
 ```
+
+* **reduce() -** applies a function to each element of an array and reduces the array to a single value.
+
+```Javascript
+// Declare an array of numbers
+let numbers = [2, 4, 6, 8, 10];
+
+// Use reduce() to calculate the sum of all the numbers in the array
+let sum = numbers.reduce(function(accumulator, currentValue) {
+  return accumulator + currentValue;
+});
+
+// Display the sum
+console.log(sum); // Output: 30
+```
