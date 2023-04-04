@@ -14,8 +14,9 @@ such as adding or removing elements, sorting, filtering, and reducing.
 
 ###2. Examples of common array methods in javascript.
 * **push() -** Adds one or more elements to the end of an array and returns the new length of the array.
+
 ```Javascript
-    // Declare an empty array
+// Declare an empty array
 let myArray = [];
 
 // Add elements to the array using push()
