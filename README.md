@@ -14,7 +14,6 @@
 ### 3. [Overview of array methods](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/3.%20Overview%20of%20array%20methods.md):
   * What are array methods?
   * Examples of common array methods (e.g. map(), filter(), reduce())
-  * How do array methods work?
   * What are the benefits of using array methods?
 ### 4. Examples of using array methods on the DOM:
   * Examples of using map() to manipulate DOM elements
