@@ -84,3 +84,20 @@ let slicedArray = myArray.slice(1, 4);
 console.log(slicedArray); // Output: ["banana", "cherry", "orange"]
 console.log(myArray); // Output: ["apple", "banana", "cherry", "orange", "grape"]
 ```
+
+* **splice() -** adds or removes elements from an array at a specified index position
+
+```Javascript
+// Declare an array with some elements
+let myArray = ["apple", "banana", "cherry", "orange", "grape"];
+
+// Remove an element from the array using splice()
+let removedElement = myArray.splice(2, 1);
+
+// Add elements to the array using splice()
+myArray.splice(1, 0, "pear", "kiwi");
+
+// Display the modified array and the removed element
+console.log(myArray); // Output: ["apple", "pear", "kiwi", "banana", "orange", "grape"]
+console.log(removedElement); // Output: ["cherry"]
+```
