@@ -131,3 +131,24 @@ let sortedArray = unsortedArray.sort();
 console.log(sortedArray); // Output: ["apple", "banana", "cherry", "grape", "orange"]
 console.log(unsortedArray); // Output: ["apple", "banana", "cherry", "grape", "orange"]
 ```
+
+* **filter() -** creates a new array with all elements that pass a certain test.
+
+```Javascript
+// Declare an array of numbers
+let numbers = [2, 4, 7, 9, 10, 12, 15];
+
+// Use filter() to get even numbers
+let evenNumbers = numbers.filter(function(number) {
+  return number % 2 === 0;
+});
+
+// Use filter() to get numbers greater than 10
+let greaterThanTen = numbers.filter(function(number) {
+  return number > 10;
+});
+
+// Display the filtered arrays
+console.log(evenNumbers); // Output: [2, 4, 10, 12]
+console.log(greaterThanTen); // Output: [12, 15]
+```
