@@ -57,3 +57,16 @@ let removedElement = myArray.shift();
 console.log(myArray); // Output: ["banana", "cherry"]
 console.log(removedElement); // Output: "apple"
 ```
+
+* **unshift() -** adds one or more elements to the beginning of an array and returns the new length of the array
+
+```Javascript
+// Declare an array with some elements
+let myArray = ["apple", "banana", "cherry"];
+
+// Add elements to the beginning of the array using unshift()
+myArray.unshift("orange", "grape");
+
+// Display the modified array
+console.log(myArray); // Output: ["orange", "grape", "apple", "banana", "cherry"]
+```
