@@ -131,6 +131,7 @@ let sortedArray = unsortedArray.sort();
 console.log(sortedArray); // Output: ["apple", "banana", "cherry", "grape", "orange"]
 console.log(unsortedArray); // Output: ["apple", "banana", "cherry", "grape", "orange"]
 ```
+---
 
 * **filter() -** creates a new array with all elements that pass a certain test.
 
