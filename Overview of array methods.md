@@ -117,3 +117,17 @@ console.log(concatenatedArray); // Output: ["apple", "banana", "cherry", "orange
 console.log(array1); // Output: ["apple", "banana", "cherry"]
 console.log(array2); // Output: ["orange", "grape"]
 ```
+
+* **sort() -** sorts the elements of an array in place, either alphabetically or numerically
+
+```Javascript
+// Declare an unsorted array
+let unsortedArray = ["orange", "apple", "grape", "banana", "cherry"];
+
+// Sort the array using sort()
+let sortedArray = unsortedArray.sort();
+
+// Display the sorted and unsorted arrays
+console.log(sortedArray); // Output: ["apple", "banana", "cherry", "grape", "orange"]
+console.log(unsortedArray); // Output: ["apple", "banana", "cherry", "grape", "orange"]
+```
