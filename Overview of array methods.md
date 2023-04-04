@@ -189,3 +189,9 @@ let sum = numbers.reduce(function(accumulator, currentValue) {
 // Display the sum
 console.log(sum); // Output: 30
 ```
+
+
+### 3. How do array methods work?
+
+### 4. What are the benefits of using array methods?
+**a. Efficiency:** Array methods are optimized for performance and provide a convenient and efficient way to manipulate arrays. Since array methods are built-in functions, they are usually faster than writing custom code to perform similar operations.
