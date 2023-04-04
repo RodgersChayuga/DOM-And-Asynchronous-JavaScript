@@ -1,6 +1,6 @@
 # 3. Overview of array methods:
 
-###1. What are array methods?
+### 1. What are array methods?
 
 **An Array:** Is a data structure that contains a collection of elements, of the same data type, which
 can be acceessed by their index positions.
@@ -12,7 +12,7 @@ that allow for manipulation and management of arrays.
 such as adding or removing elements, sorting, filtering, and reducing.
 
 
-###2. Examples of common array methods in javascript.
+### 2. Examples of common array methods in javascript.
 * **push() -** Adds one or more elements to the end of an array and returns the new length of the array.
 
 ```Javascript
