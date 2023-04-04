@@ -70,3 +70,17 @@ myArray.unshift("orange", "grape");
 // Display the modified array
 console.log(myArray); // Output: ["orange", "grape", "apple", "banana", "cherry"]
 ```
+
+* **slice() -** returns a new array with a selected portion of the original array
+
+```Javascript
+// Declare an array with some elements
+let myArray = ["apple", "banana", "cherry", "orange", "grape"];
+
+// Extract a portion of the array using slice()
+let slicedArray = myArray.slice(1, 4);
+
+// Display the extracted portion and the original array
+console.log(slicedArray); // Output: ["banana", "cherry", "orange"]
+console.log(myArray); // Output: ["apple", "banana", "cherry", "orange", "grape"]
+```
