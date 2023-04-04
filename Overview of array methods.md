@@ -152,3 +152,24 @@ let greaterThanTen = numbers.filter(function(number) {
 console.log(evenNumbers); // Output: [2, 4, 10, 12]
 console.log(greaterThanTen); // Output: [12, 15]
 ```
+
+* **map() -** creates a new array with the results of calling a function for every array element.
+
+```Javascript
+// Declare an array of numbers
+let numbers = [2, 4, 6, 8, 10];
+
+// Use map() to create a new array with each number multiplied by 2
+let doubledNumbers = numbers.map(function(number) {
+  return number * 2;
+});
+
+// Use map() to create a new array with each number squared
+let squaredNumbers = numbers.map(function(number) {
+  return number ** 2;
+});
+
+// Display the new arrays
+console.log(doubledNumbers); // Output: [4, 8, 12, 16, 20]
+console.log(squaredNumbers); // Output: [4, 16, 36, 64, 100]
+```
