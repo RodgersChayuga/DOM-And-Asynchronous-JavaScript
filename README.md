@@ -11,7 +11,7 @@
   * What is asynchronous JavaScript?
   * Why is asynchronous JavaScript important for web development?
   * Examples of common asynchronous operations (e.g. fetching data from a server, user interactions)
-### 3. Overview of array methods:
+### 3. [Overview of array methods](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/Overview%20of%20array%20methods:):
   * What are array methods?
   * Examples of common array methods (e.g. map(), filter(), reduce())
   * How do array methods work?
