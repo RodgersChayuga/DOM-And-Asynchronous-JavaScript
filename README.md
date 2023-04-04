@@ -2,16 +2,16 @@
 ## Using Array Methods on the DOM Asynchronous JavaScript
 
 
-### 1. [Introduction to the DOM](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/Introduction%20to%20the%20DOM.md):
+### 1. [Introduction to the DOM](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/1.%20Introduction%20to%20the%20DOM.md):
   * What is the DOM?
   * How does the DOM relate to HTML and CSS?
   * How does JavaScript interact with the DOM?
   * Examples of common DOM manipulations (e.g. changing text, adding/removing elements)
-### 2. [Introduction to asynchronous JavaScript](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/Introduction%20to%20asynchronous%20JavaScript.md):
+### 2. [Introduction to asynchronous JavaScript](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/2.%20Introduction%20to%20asynchronous%20JavaScript.md):
   * What is asynchronous JavaScript?
   * Why is asynchronous JavaScript important for web development?
   * Examples of common asynchronous operations (e.g. fetching data from a server, user interactions)
-### 3. [Overview of array methods](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/Overview%20of%20array%20methods:):
+### 3. [Overview of array methods](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/3.%20Overview%20of%20array%20methods.md):
   * What are array methods?
   * Examples of common array methods (e.g. map(), filter(), reduce())
   * How do array methods work?
