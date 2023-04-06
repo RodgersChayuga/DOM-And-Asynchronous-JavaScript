@@ -23,7 +23,7 @@
 ### 5. [Callbacks, Promises, and Async/Await](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.%20Callbacks%20and%20Promises.md):
   * [Callback Function](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.1.%20Callbacks%20Functions.md)
   * [Promises](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.2.%20Promises.md)
-  * [Async/Await]()
+  * [Async/Await](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.3.%20Async%20%26%20Await.md)
 ### 6. Best practices:
   * Using asynchronous methods to load data from the server
   * Updating the DOM only when data is ready
