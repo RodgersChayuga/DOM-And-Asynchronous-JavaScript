@@ -22,7 +22,7 @@
   * Best practices for using array methods on the DOM
 ### 5. [Callbacks, Promises, and Async/Await](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.%20Callbacks%20and%20Promises.md):
   * [Callback Function](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.1.%20Callbacks%20Functions.md)
-  * [Promises]()
+  * [Promises](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.2.%20Promises.md)
   * [Async/Await]()
 ### 6. Best practices:
   * Using asynchronous methods to load data from the server
