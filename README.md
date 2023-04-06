@@ -20,11 +20,10 @@
   * Examples of using filter() to select specific DOM elements
   * Examples of using reduce() to aggregate data from DOM elements
   * Best practices for using array methods on the DOM
-### 5. [Callbacks and Promises](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.%20Callbacks%20and%20Promises.md):
-  * What are callbacks and how do they work?
-  * Examples of using callbacks to handle asynchronous events
-  * What are promises and how do they simplify asynchronous code?
-  * Examples of using promises with array methods on the DOM
+### 5. [Callbacks, Promises, and Async/Await](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.%20Callbacks%20and%20Promises.md):
+  * 1.[Callback Function](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.1.%20Callbacks%20Functions.md)?
+  * 2.[Promises](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.%20Callbacks%20Functions.md)?
+  * 3.[Async/Await](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.%20Callbacks%20Functions.md)?
 ### 6. Best practices:
   * Using asynchronous methods to load data from the server
   * Updating the DOM only when data is ready
