@@ -21,9 +21,9 @@
   * Examples of using reduce() to aggregate data from DOM elements
   * Best practices for using array methods on the DOM
 ### 5. [Callbacks, Promises, and Async/Await](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.%20Callbacks%20and%20Promises.md):
-  * 1.[Callback Function](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.1.%20Callbacks%20Functions.md)
-  * 2.[Promises]()
-  * 3.[Async/Await]()
+  * [Callback Function](https://github.com/RodgersChayuga/DOM-And-Asynchronous-JavaScript/blob/main/5.1.%20Callbacks%20Functions.md)
+  * [Promises]()
+  * [Async/Await]()
 ### 6. Best practices:
   * Using asynchronous methods to load data from the server
   * Updating the DOM only when data is ready
